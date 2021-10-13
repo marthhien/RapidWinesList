@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rapid Wines List</string>
+    <string name="action_settings">Settings</string>
+    <string name="MNU_QUIT">Quit</string>
+    <string name="MNU_PAR">About</string>
+    <string name="MNU_IMPORT">Import data</string>
+    <string name="MNU_RATE">Rate this application</string>
+    <string name="MNU_NOTE">Send email to developer</string>
+    <string name="MNU_EXPORT">Export data</string>
+    <string name="MNU_CHERCHER">Find</string>
+    <string name="MNU_TRIER">Sort</string>
+    <string name="NOM"><u>Name</u></string>
+    <string name="MAISON"><u>Producer</u></string>
+    <string name="PAYS"><u>Country</u></string>
+    <string name="REGION"><u>Region</u></string>
+    <string name="COULEUR"><u>Varietal</u></string>
+    <string name="MILLE"><u>Vintage</u></string>
+  	<string name="PRIX"><u>Price</u></string>
+  	<string name="ALCOOL"><u>% alcohol</u></string>
+    <string name="CODE"><u>Product Code</u></string>
+  	<string name="NOTE"><u>Evaluation</u></string>
+    <string name="APPREC"><u>Comment</u></string>
+    <string name="NOLABEL">No photo</string>
+   
+    <string name="SP">&#160;</string>
+ 
+	<color name="LBLUE">#4b4b4a</color>
+    <color name="LBLACK">#000000</color>
+    
+</resources>
+
